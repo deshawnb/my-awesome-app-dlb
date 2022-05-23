@@ -1,3 +1,5 @@
+// the porpose of this project is to use branches, tags, and releases
+
 const express = require('express')
 const app = express()
 // simple hello word node app
