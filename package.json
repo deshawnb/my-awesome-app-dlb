@@ -1,0 +1,14 @@
+{
+    "name": "my-awesome-app-dlb",
+    "version": "0.1.0",
+    "description": "Heloo world in node with expess",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "author": "Deshawn Brown",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}
